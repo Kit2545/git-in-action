@@ -1,2 +1,2 @@
 Name: Kit
-Gender: Male
+Sex: Male
